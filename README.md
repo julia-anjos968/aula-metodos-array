@@ -12,3 +12,6 @@ Remove o último elemento do
 
 Remove o primeiro elemento do 
 
+## Método Unshift
+
+Adiciona elementos no ínicio do array
