@@ -6,11 +6,11 @@ Adiciona elementos ao final do array
 
 ## Método Pop
 
-Remove o último elemento do 
+Remove o último elemento do array
 
 ## Método Shift
 
-Remove o primeiro elemento do 
+Remove o primeiro elemento do array
 
 ## Método Unshift
 
